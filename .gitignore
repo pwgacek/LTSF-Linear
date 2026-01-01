@@ -1,6 +1,5 @@
 *.pyc
 *.pth
-dataset/
 result.txt
 test_results/
 results/
